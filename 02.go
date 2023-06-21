@@ -1,3 +1,5 @@
+// Variable declarations
+
 package main
 
 import "fmt"
