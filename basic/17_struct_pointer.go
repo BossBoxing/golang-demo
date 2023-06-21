@@ -8,7 +8,7 @@ type bands struct {
 	member int
 }
 
-func updateMember(bands *bands, member int){
+func updateMember(bands *bands, member int) {
 	bands.member = member
 }
 
